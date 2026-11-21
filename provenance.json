@@ -1,0 +1,24 @@
+{
+  "historical_author": "漢口花樓仁濟醫院（機構告示）",
+  "source_identity": "National Library of Australia nla.gen-vn514067, no. 14, scan s32",
+  "source": "https://ecpo.cats.uni-heidelberg.de/ecpo/publications.php?magid=251&isid=42296",
+  "source_image_viewer": "https://ecpo.cats.uni-heidelberg.de/ecpo/publications.php?magid=251&isid=42296&ispage=61",
+  "source_rights_policy": "https://www.library.gov.au/services/copyright-library-collections/how-long-does-copyright-last",
+  "dataset_version": "0.1.0",
+  "scan_count": 1,
+  "content_scan_count": 1,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://ecpo.cats.uni-heidelberg.de/ecpo/publications.php?magid=251&isid=42296&ispage=61",
+      "label": {
+        "none": [
+          "第十四號末葉（NLA s32）"
+        ]
+      },
+      "sha256": "145cf1d76dafa8507f8fb05bb850532973020be858fb04a2ba8814bcebc4f24e",
+      "content_role": "article-text"
+    }
+  ]
+}

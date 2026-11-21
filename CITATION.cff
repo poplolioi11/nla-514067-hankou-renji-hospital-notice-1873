@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite this version and the source copy.
+title: '《中西聞見錄》〈漢口花樓仁濟醫院敬啟〉（1873 年，澳洲國家圖書館 514067） / Hankou Hua lou Ren ji yi yuan
+  jing qi [Notice from Renji Hospital at Hualou, Hankou]: Transcription Dataset'
+type: dataset
+version: 0.1.0
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+repository-code: https://github.com/poplolioi11/nla-514067-hankou-renji-hospital-notice-1873
+keywords:
+- 中西聞見錄
+- 漢口花樓仁濟醫院
+- 漢口近事
+- 醫院史
+- 收治
+- 住院照護
+- 醫療慈善
+- 教會醫療
+- 晚清報刊
+- Peking Magazine
+- Zhong xi wen jian lu
+- Hankou
+- Renji Hospital
+- medical missions
+- inpatient care
+- hospital admission
+- medical charity
+- National Library of Australia
+- Heidelberg ECPO

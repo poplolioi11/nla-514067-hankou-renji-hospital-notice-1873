@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lzh">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>《中西聞見錄》〈漢口花樓仁濟醫院敬啟〉</title>
+        <title type="alternate">Zhong xi wen jian lu: Hankou Hua lou Ren ji yi yuan jing qi</title>
+        <author>漢口花樓仁濟醫院（機構告示）</author>
+        <respStmt>
+          <resp>整理與編碼</resp>
+          <name>曲宸宇 (Chu, Chen-Yu)</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Transcription dataset v0.1.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>坎培拉</settlement>
+            <repository>澳洲國家圖書館（National Library of Australia）</repository>
+            <collection>《中西聞見錄》</collection>
+            <idno>nla.gen-vn514067</idno>
+            <altIdentifier>
+              <idno>NLA514067I14</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p>〈漢口花樓仁濟醫院敬啟〉刊於《中西聞見錄》第十四號（1873 年 9 月）。院方說明依病情輕重安排患者住院或帶藥回家、免費施醫送藥，以及原址因水患、周圍衛生和病房容量受限而籌募經費遷院。編刊者的〈漢口近事〉引言與院方告示各自標明，兩者均錄至篇末。底本由澳洲國家圖書館收藏，影像由海德堡大學 Early Chinese Periodicals Online 提供。</p>
+              <ref target="https://ecpo.cats.uni-heidelberg.de/ecpo/publications.php?magid=251&amp;isid=42296">館方書目</ref>
+              <ref target="https://ecpo.cats.uni-heidelberg.de/ecpo/publications.php?magid=251&amp;isid=42296">館方影像清單</ref>
+            </summary>
+          </msContents>
+          <history>
+            <origin>
+              <p>同治十二年八月（1873 年 9 月），據第十四號題葉</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>以館方 s32 為唯一正文範圍，依右半、左半與各半由右往左錄字。分別標記刊者引言、院方篇題、正文及版心。以頓點表示可見的原刻點，保留字形與疑問定位。</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" corresp="https://ecpo.cats.uni-heidelberg.de/ecpo/publications.php?magid=251&amp;isid=42296&amp;ispage=61" xml:id="f01">
+      <graphic url="https://ecpo.cats.uni-heidelberg.de/fcgi-bin/iipsrv.fcgi?IIIF=%252Fecpo%252Fimages%252Fzhongxi_wenjian_lu%252F1873%252Fissue0014%252Fzxjwl_1873_issue0014_0061to0062.tif%2Ffull%2F%212350%2C2350%2F0%2Fdefault.jpg" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="codex">
+        <pb n="1" facs="#f01" />
+        <div n="1" type="scan" subtype="article-text">
+          <div type="page-face" n="right" xml:lang="lzh">
+            <ab type="column" n="1" xml:id="f01-r-c01" subtype="intro-title">
+              <seg type="diplomatic-text">漢口近事</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f01-r-c02" subtype="intro">
+              <seg type="diplomatic-text">漢口於十年前有英醫設局施醫、以拯病者、藥不取資功期速</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f01-r-c03" subtype="intro">
+              <seg type="diplomatic-text">效、所活人不可以數計、今擬開拓館地勸衆捐輸、現為英醫名</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f01-r-c04" subtype="intro">
+              <seg type="diplomatic-text">立德者董其事、而華醫楊鑑堂參助、誠善舉也茲將其公啟登錄、</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f01-r-c05" subtype="article-title">
+              <seg type="diplomatic-text">漢口花樓仁濟醫院敬啟</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f01-r-c06" subtype="article">
+              <seg type="diplomatic-text">原夫身體強健、自然心定神安、倘有寒暑失宜、抑為困苦所迫、</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f01-r-c07" subtype="article">
+              <seg type="diplomatic-text">則病生焉、而醫尚矣、順境者發心樂助、逆境者願意蒙恩、則舉</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f01-r-c08" subtype="article">
+              <seg type="diplomatic-text">施醫送藥、不取分文、尤為濟世利人所推急務也、本醫院創建</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f01-r-c09" subtype="article">
+              <seg type="diplomatic-text">七載於茲、人分遠近、病別重輕、或使住院就醫、或使攜藥回屋、</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f01-r-c10" subtype="article">
+              <seg type="diplomatic-text">若老若少、有女有男、惟望俱痊、何堪忽視、施刀圭以起沉痾、投</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown" xml:lang="lzh">中西聞見錄　各國近事　完　八月</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left" xml:lang="lzh">
+            <ab type="column" n="1" xml:id="f01-l-c01" subtype="article">
+              <seg type="diplomatic-text">藥餌而除痼疾、已久在衆心、不詳開數目矣、特有三慮敬陳一</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f01-l-c02" subtype="article">
+              <seg type="diplomatic-text">聽、首則地勢低窪、水淹時未能開診、次則鄰居穢濁、氣蒸處最</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f01-l-c03" subtype="article">
+              <seg type="diplomatic-text">碍病人、三則為屋太小一總住人不多、且授業情殷、每思廣傳</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f01-l-c04" subtype="article">
+              <seg type="diplomatic-text">醫學、奈樓運地狹、至今未集生徒、日者選有佳地、議欲遷居、屋</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f01-l-c05" subtype="article">
+              <seg type="diplomatic-text">造多間、功催速作、俾三慮立見消除、誠萬全出茲計畫、凡造院</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f01-l-c06" subtype="article">
+              <seg type="diplomatic-text">經費、及逐年開銷、想洋商自然仍舊樂捐、望華人亦可從新慨</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f01-l-c07" subtype="article">
+              <seg type="diplomatic-text">助、隔重洋者久徵踴躍、共一國者愈切輸將、捨本國之財濟本</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f01-l-c08" subtype="article">
+              <seg type="diplomatic-text">國之苦、發乎至情、本乎天理、敬請貴官、酌分鶴俸、篤痌瘝在抱</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f01-l-c09" subtype="article">
+              <seg type="diplomatic-text">之仁、紳商量賜鴻施、著胞與為懷之美、雖用等不貲、若三千銀</seg>
+            </ab>
+            <ab type="column" n="10" xml:id="f01-l-c10" subtype="article">
+              <seg type="diplomatic-text">始得、而事成最善、為矜恤人所歡、茲蒙台助、早列尊名、</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">澳洲國家圖書館 `nla.gen-vn514067-14-s32-v`。左右各10欄，末欄『早列尊名』後留空。冊後一幅另起輪船廣告。</ab>
+            <ab type="transcription-issue" n="right:6">
+              <quote>抑為困苦所迫</quote>
+              <seg type="candidate">迫</seg>
+              <seg type="candidate">廹</seg>
+              <note type="editorial">末字走之內部有異體差異。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:10">
+              <quote>沉痾</quote>
+              <seg type="candidate">痾</seg>
+              <seg type="candidate">疴</seg>
+              <note type="editorial">阿形左側細筆待比較。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:3">
+              <quote>碍病人</quote>
+              <seg type="candidate">碍</seg>
+              <seg type="candidate">礙</seg>
+              <note type="editorial">石旁右部上圍與下部待比較。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:4">
+              <quote>日者選有佳地</quote>
+              <seg type="candidate">選</seg>
+              <seg type="candidate">遘</seg>
+              <note type="editorial">走之內的密筆需確認。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:7">
+              <quote>久徵踴躍</quote>
+              <seg type="candidate">徵</seg>
+              <seg type="candidate">徼</seg>
+              <note type="editorial">彳旁字的右部收筆較細。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:8">
+              <quote>篤痌瘝在抱</quote>
+              <seg type="candidate">篤</seg>
+              <note type="editorial">首字竹頭及中部馬形需回圖。</note>
+            </ab>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
