@@ -4,11 +4,11 @@
 
 Published in The Peking Magazine (Zhong xi wen jian lu) no. 14 in September 1873, this notice from Renji Hospital at Hualou in Hankou describes free care, decisions about admitting patients or sending them home with medicine, and the effect of flooding, sanitation and limited bed space on care. The complete notice and the journal's separate introductory item are transcribed from the National Library of Australia copy, accessed through Heidelberg University's Early Chinese Periodicals Online.
 
-## V0.1.0
+## V0.2.0
 
-資料集提供一幅雙面，合計20欄的完整告示與刊者引言，並另錄版心。TXT 附可連讀全文，JSON 與 TEI XML 依各面、欄號定位原圖。本版為 AI 輔助逐欄初錄，已標待判字形。人工全文雙校及專家審定尚未進行。
+資料集提供一幅雙面，合計20欄的完整告示與刊者引言，並另錄版心。TXT 附可連讀全文，JSON 與 TEI XML 依各面、欄號定位原圖。比對獨立原圖讀法後回圖裁定，採用 3 筆訂正，留存疑讀定位。
 
-One opening contains the complete notice and editorial introduction in 20 columns, with separate running-title text. TXT includes continuous reading text. JSON and TEI XML preserve the scan, face and column locations. AI-assisted initial transcription with uncertain readings marked. Human collation and expert review are pending.
+One opening contains the complete notice and editorial introduction in 20 columns, with separate running-title text. TXT includes continuous reading text. JSON and TEI XML preserve the scan, face and column locations. An independent image reading was compared with the first transcription. Source-image adjudication adopted 3 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 

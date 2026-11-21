@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '《中西聞見錄》〈漢口花樓仁濟醫院敬啟〉（1873 年，澳洲國家圖書館 514067） / Hankou Hua lou Ren ji yi yuan
   jing qi [Notice from Renji Hospital at Hualou, Hankou]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

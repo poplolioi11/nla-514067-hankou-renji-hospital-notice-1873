@@ -16,15 +16,15 @@
     "txt_reader_statement": "第十四號館方原圖 s32，先讀右半，再讀左半，各半由右往左。右半前四欄為刊者〈漢口近事〉，自右半第五欄起是院方告示。下方附依原欄序合併的連讀文字。",
     "tei_editorial_statement": "以館方 s32 為唯一正文範圍，依右半、左半與各半由右往左錄字。分別標記刊者引言、院方篇題、正文及版心。以頓點表示可見的原刻點，保留字形與疑問定位。",
     "record_id": "NLA514067I14",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "manifest_url": null,
     "source_holding_identity": "National Library of Australia, nla.gen-vn514067, no. 14",
     "digitized_image_provider": "Early Chinese Periodicals Online, Heidelberg University",
     "source_issued_month": "1873-09",
     "source_printed_chronology": "同治十二年八月",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "《中西聞見錄》〈漢口花樓仁濟醫院敬啟〉（1873 年，澳洲國家圖書館 514067） / Hankou Hua lou Ren ji yi yuan jing qi [Notice from Renji Hospital at Hualou, Hankou]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -73,11 +73,11 @@
               "scope_role": "article-title"
             },
             {
-              "text": "原夫身體強健、自然心定神安、倘有寒暑失宜、抑為困苦所迫、",
+              "text": "原夫身體強健、自然心定神安、倘有寒暑失宜、抑為困苦所廹、",
               "scope_role": "article"
             },
             {
-              "text": "則病生焉、而醫尚矣、順境者發心樂助、逆境者願意蒙恩、則舉",
+              "text": "則病生焉、而醫倘矣、順境者發心樂助、逆境者願意蒙恩、則舉",
               "scope_role": "article"
             },
             {
@@ -89,7 +89,7 @@
               "scope_role": "article"
             },
             {
-              "text": "若老若少、有女有男、惟望俱痊、何堪忽視、施刀圭以起沉痾、投",
+              "text": "若老若少、有女有男、惟望俱痊、何堪忽視、施刀圭以起沉疴、投",
               "scope_role": "article"
             }
           ],
@@ -151,67 +151,7 @@
       ],
       "state": "transcribed",
       "observations": "澳洲國家圖書館 `nla.gen-vn514067-14-s32-v`。左右各10欄，末欄『早列尊名』後留空。冊後一幅另起輪船廣告。",
-      "issues": [
-        {
-          "side": "right",
-          "column": 6,
-          "context": "抑為困苦所迫",
-          "candidates": [
-            "迫",
-            "廹"
-          ],
-          "note": "末字走之內部有異體差異。"
-        },
-        {
-          "side": "right",
-          "column": 10,
-          "context": "沉痾",
-          "candidates": [
-            "痾",
-            "疴"
-          ],
-          "note": "阿形左側細筆待比較。"
-        },
-        {
-          "side": "left",
-          "column": 3,
-          "context": "碍病人",
-          "candidates": [
-            "碍",
-            "礙"
-          ],
-          "note": "石旁右部上圍與下部待比較。"
-        },
-        {
-          "side": "left",
-          "column": 4,
-          "context": "日者選有佳地",
-          "candidates": [
-            "選",
-            "遘"
-          ],
-          "note": "走之內的密筆需確認。"
-        },
-        {
-          "side": "left",
-          "column": 7,
-          "context": "久徵踴躍",
-          "candidates": [
-            "徵",
-            "徼"
-          ],
-          "note": "彳旁字的右部收筆較細。"
-        },
-        {
-          "side": "left",
-          "column": 8,
-          "context": "篤痌瘝在抱",
-          "candidates": [
-            "篤"
-          ],
-          "note": "首字竹頭及中部馬形需回圖。"
-        }
-      ]
+      "issues": []
     }
   ]
 }

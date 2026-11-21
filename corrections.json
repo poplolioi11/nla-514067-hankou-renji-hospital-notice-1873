@@ -1,0 +1,144 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 3,
+  "changes": [
+    {
+      "image": 1,
+      "side": "right",
+      "column": 6,
+      "kind": "printed-character",
+      "op": "replace",
+      "before": "迫",
+      "after": "廹",
+      "reason": "原刻白字旁只見下半長弧，未見走之的點，依形編為廹。",
+      "source_bbox": [
+        1625,
+        1650,
+        1725,
+        1867
+      ],
+      "offset": 27,
+      "source_image_sha256": "145cf1d76dafa8507f8fb05bb850532973020be858fb04a2ba8814bcebc4f24e",
+      "canvas": "https://ecpo.cats.uni-heidelberg.de/ecpo/publications.php?magid=251&isid=42296&ispage=61"
+    },
+    {
+      "image": 1,
+      "side": "right",
+      "column": 7,
+      "kind": "printed-character",
+      "op": "replace",
+      "before": "尚",
+      "after": "倘",
+      "reason": "字左側清楚可分出一撇一豎，右側為尚。",
+      "source_bbox": [
+        1530,
+        710,
+        1620,
+        1040
+      ],
+      "offset": 8,
+      "source_image_sha256": "145cf1d76dafa8507f8fb05bb850532973020be858fb04a2ba8814bcebc4f24e",
+      "canvas": "https://ecpo.cats.uni-heidelberg.de/ecpo/publications.php?magid=251&isid=42296&ispage=61"
+    },
+    {
+      "image": 1,
+      "side": "right",
+      "column": 10,
+      "kind": "printed-character",
+      "op": "replace",
+      "before": "痾",
+      "after": "疴",
+      "reason": "疒下面爲可，有橫及丁鉤，未見阿字的阜旁，也沒有病字丙部的內點。",
+      "source_bbox": [
+        1225,
+        1625,
+        1325,
+        1867
+      ],
+      "offset": 27,
+      "source_image_sha256": "145cf1d76dafa8507f8fb05bb850532973020be858fb04a2ba8814bcebc4f24e",
+      "canvas": "https://ecpo.cats.uni-heidelberg.de/ecpo/publications.php?magid=251&isid=42296&ispage=61"
+    }
+  ],
+  "differences_for_future_review": [],
+  "retained_readings": [
+    {
+      "image": 1,
+      "side": "right",
+      "column": 4,
+      "source_bbox": [
+        1810,
+        1110,
+        1910,
+        1300
+      ],
+      "offset": 14,
+      "source_image_sha256": "145cf1d76dafa8507f8fb05bb850532973020be858fb04a2ba8814bcebc4f24e",
+      "text": "參",
+      "candidate": "襄",
+      "reason": "原字下方連續三斜筆作彡，上部密筆，為參字形。"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 3,
+      "source_bbox": [
+        835,
+        445,
+        927,
+        690
+      ],
+      "offset": 1,
+      "source_image_sha256": "145cf1d76dafa8507f8fb05bb850532973020be858fb04a2ba8814bcebc4f24e",
+      "text": "碍",
+      "candidate": "礙",
+      "reason": "字右看見日下橫豎及寸形，保留底本的碍。"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 8,
+      "source_bbox": [
+        332,
+        1420,
+        424,
+        1785
+      ],
+      "offset": 22,
+      "source_image_sha256": "145cf1d76dafa8507f8fb05bb850532973020be858fb04a2ba8814bcebc4f24e",
+      "text": "鶴",
+      "candidate": "鴻",
+      "reason": "鳥左部見長直筆和短橫，未見鴻字的水旁。"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 4,
+      "text": "樓運",
+      "candidates": [
+        "樓運"
+      ],
+      "reason": "兩稿同讀。樓字从木婁，運字可辨軍形。語義留待相關文獻比對。"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 8,
+      "text": "篤痌瘝",
+      "candidates": [
+        "篤痌瘝"
+      ],
+      "reason": "依所見首字上竹下馬，後二字从疒。"
+    },
+    {
+      "image": 1,
+      "side": "left",
+      "column": 10,
+      "text": "矜恤",
+      "candidates": [
+        "矜恤"
+      ],
+      "reason": "首字見矛與今，恤从忄與血。"
+    }
+  ]
+}

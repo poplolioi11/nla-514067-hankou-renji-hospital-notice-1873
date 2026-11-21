@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -76,10 +76,10 @@
               <seg type="diplomatic-text">漢口花樓仁濟醫院敬啟</seg>
             </ab>
             <ab type="column" n="6" xml:id="f01-r-c06" subtype="article">
-              <seg type="diplomatic-text">原夫身體強健、自然心定神安、倘有寒暑失宜、抑為困苦所迫、</seg>
+              <seg type="diplomatic-text">原夫身體強健、自然心定神安、倘有寒暑失宜、抑為困苦所廹、</seg>
             </ab>
             <ab type="column" n="7" xml:id="f01-r-c07" subtype="article">
-              <seg type="diplomatic-text">則病生焉、而醫尚矣、順境者發心樂助、逆境者願意蒙恩、則舉</seg>
+              <seg type="diplomatic-text">則病生焉、而醫倘矣、順境者發心樂助、逆境者願意蒙恩、則舉</seg>
             </ab>
             <ab type="column" n="8" xml:id="f01-r-c08" subtype="article">
               <seg type="diplomatic-text">施醫送藥、不取分文、尤為濟世利人所推急務也、本醫院創建</seg>
@@ -88,7 +88,7 @@
               <seg type="diplomatic-text">七載於茲、人分遠近、病別重輕、或使住院就醫、或使攜藥回屋、</seg>
             </ab>
             <ab type="column" n="10" xml:id="f01-r-c10" subtype="article">
-              <seg type="diplomatic-text">若老若少、有女有男、惟望俱痊、何堪忽視、施刀圭以起沉痾、投</seg>
+              <seg type="diplomatic-text">若老若少、有女有男、惟望俱痊、何堪忽視、施刀圭以起沉疴、投</seg>
             </ab>
             <ab type="page-feature" subtype="running-title">
               <label>版心</label>
@@ -129,41 +129,6 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">澳洲國家圖書館 `nla.gen-vn514067-14-s32-v`。左右各10欄，末欄『早列尊名』後留空。冊後一幅另起輪船廣告。</ab>
-            <ab type="transcription-issue" n="right:6">
-              <quote>抑為困苦所迫</quote>
-              <seg type="candidate">迫</seg>
-              <seg type="candidate">廹</seg>
-              <note type="editorial">末字走之內部有異體差異。</note>
-            </ab>
-            <ab type="transcription-issue" n="right:10">
-              <quote>沉痾</quote>
-              <seg type="candidate">痾</seg>
-              <seg type="candidate">疴</seg>
-              <note type="editorial">阿形左側細筆待比較。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:3">
-              <quote>碍病人</quote>
-              <seg type="candidate">碍</seg>
-              <seg type="candidate">礙</seg>
-              <note type="editorial">石旁右部上圍與下部待比較。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:4">
-              <quote>日者選有佳地</quote>
-              <seg type="candidate">選</seg>
-              <seg type="candidate">遘</seg>
-              <note type="editorial">走之內的密筆需確認。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:7">
-              <quote>久徵踴躍</quote>
-              <seg type="candidate">徵</seg>
-              <seg type="candidate">徼</seg>
-              <note type="editorial">彳旁字的右部收筆較細。</note>
-            </ab>
-            <ab type="transcription-issue" n="left:8">
-              <quote>篤痌瘝在抱</quote>
-              <seg type="candidate">篤</seg>
-              <note type="editorial">首字竹頭及中部馬形需回圖。</note>
-            </ab>
           </div>
         </div>
       </div>
